@@ -3,7 +3,9 @@
 #include <iostream>
 using namespace std;
 int main(){
-    int a,b,c, resultado=0;
+ for (int a = 1; a < 10; ++a){
+
+ }
 
 
 
