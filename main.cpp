@@ -7,7 +7,7 @@ int main(){
      for (int b = a ; b < 16; ++b){
          for (int c = b; c < 20; ++c){
              if (a*a + b*b == c*c){
-                 cout << a << " " << b << " " << c << endl;
+                 cout << a << " " << b << " " << c <<endl;
              }
          }
      }
