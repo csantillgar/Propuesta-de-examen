@@ -1,0 +1,14 @@
+# ninja log v5
+5	206	7210563139716569	build.ninja	d2b69f0b1d275811
+1	283	7210563143471301	CMakeFiles/Propuesta_de_examen.dir/main.cpp.obj	4df8de96b3cc8560
+287	494	7210563145506130	Propuesta_de_examen.exe	240c5b3edf654c31
+2	217	7210563745950368	CMakeFiles/Propuesta_de_examen.dir/main.cpp.obj	4df8de96b3cc8560
+219	303	7210563746810813	Propuesta_de_examen.exe	240c5b3edf654c31
+5	252	7210565964380707	CMakeFiles/Propuesta_de_examen.dir/main.cpp.obj	4df8de96b3cc8560
+253	332	7210565965197823	Propuesta_de_examen.exe	240c5b3edf654c31
+2	268	7210567821526278	CMakeFiles/Propuesta_de_examen.dir/main.cpp.obj	4df8de96b3cc8560
+270	368	7210567822527879	Propuesta_de_examen.exe	240c5b3edf654c31
+2	211	7210567914729326	CMakeFiles/Propuesta_de_examen.dir/main.cpp.obj	4df8de96b3cc8560
+212	288	7210567915464065	Propuesta_de_examen.exe	240c5b3edf654c31
+3	209	7210568039889902	CMakeFiles/Propuesta_de_examen.dir/main.cpp.obj	4df8de96b3cc8560
+209	296	7210568040658756	Propuesta_de_examen.exe	240c5b3edf654c31
